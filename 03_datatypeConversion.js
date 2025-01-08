@@ -3,8 +3,8 @@ let Name = "Deep"
 // console.log(typeof Name);
 
 let valueInNumber = Number(Name)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
 // "33" => 33
 // "33ac" => NaN
@@ -12,7 +12,7 @@ console.log(valueInNumber);
 
 let isLoggedIn = undefined
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 => true
 // 0 => false 
@@ -25,8 +25,8 @@ console.log(booleanIsLoggedIn);
 
 let num = true
 let stringNum = String(num)
-console.log(typeof stringNum);
-console.log(stringNum);
+// console.log(typeof stringNum);
+// console.log(stringNum);
 
 // 33 => "33"
 // 33.33 => "33.33"
@@ -35,3 +35,28 @@ console.log(stringNum);
 // null => "null"
 // undefined => "undefined"
 // "[1,2,3]" => "1,2,3"  // stringfy() method is used to convert array to string
+
+
+
+
+
+// ********************************  Operations *************************************
+// (2+2)
+// (2-2)
+// (2*2)
+// (2/2)
+// (2%2)
+// (2**2)
+// (2**3)
+
+let str1 = "Hello"
+let str2 = " World"
+console.log(str1 + str2);
+
+console.log("1"+ 2);
+console.log(1 + "2");
+console.log(1 + 2 + "3");
+console.log(1 + 2 + 3 + "4");
+console.log("1"+2+3);
+console.log("1"+2+3+4);
+

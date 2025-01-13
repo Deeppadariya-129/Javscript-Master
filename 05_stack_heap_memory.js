@@ -7,7 +7,6 @@
 
 // Stack Example 
 let userName = "HelloWorld"
-
 let anotherName = userName
 
 console.log(anotherName);
@@ -19,8 +18,6 @@ console.log(anotherName);
 
 
 // Heap Example
-let arr = [1,2,3]
-
 let userObj = {
     Name : "john",
     Email : "john@gmail.com"

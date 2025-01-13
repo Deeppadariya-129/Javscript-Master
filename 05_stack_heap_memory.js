@@ -1,8 +1,8 @@
 // Types of Memory in js 
 // 1.Stack Memory (use in primitive types)
-// it provide an coppy of the value and store it in memory
+// --> it provide an coppy of the value and store it in memory
 // 2.Heap Memory (use in no primitive types)
-// it provide a reference to the value and store it in memory
+// --> it provide a reference to the value and store it in memory
 
 
 // Stack Example 
